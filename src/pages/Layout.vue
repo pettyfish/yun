@@ -1,3 +1,4 @@
+//公共组件layout
 <template>
   <div>
     <nav-header></nav-header>
