@@ -5,7 +5,7 @@
 </template>
 
 <script>
-//import '@/mock'
+import '@/mock'
 export default {
   name: 'App'
 }
